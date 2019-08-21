@@ -1,0 +1,5 @@
+#Insight Transform File V1.0
+#Transform 0
+Transform: Euler2DTransform_double_2_2
+Parameters: -8.295951672242397 -14.185971044516675 -16.44108997222353
+FixedParameters: 34.166266846544666 39.125338231198626
