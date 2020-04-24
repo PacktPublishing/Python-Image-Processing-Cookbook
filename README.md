@@ -86,7 +86,7 @@ barcode detection and text detection from images.
 
 ### Chapter 9 
 Face Detection and Recognition, is where you will learn how to use different
-Python libraries (scikit-learn, OpenCV, dlib, TensorFlow, Keras, PyTorch, DeepFace, and
+Python libraries and models (scikit-learn, OpenCV, dlib, TensorFlow, Keras, PyTorch, DeepFace, and
 FaceNet) for face detection in images. You'll also learn how to implement facial keypoint
 recognition and facial/emotion/gender recognition with deep learning.
 
