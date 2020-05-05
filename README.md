@@ -132,8 +132,4 @@ Hands-on Image Processing with Python - First Edition (https://www.packtpub.com/
 Sandipan Dey is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog sites (https://sandipanweb.wordpress.com/, https://sandipandey.wixsite.com/simplydatascience, https://www.datasciencecentral.com/profile/SandipanDey and https://sandipanumbc.tumblr.com/) and is a machine learning education enthusiast.
 
 #### Suggestions and Feedback
-<<<<<<< HEAD
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-=======
-Click here if you have any feedback or suggestions.
->>>>>>> 5ca3eeb210ff8db3d07f92c5cfc47631e748e35d
