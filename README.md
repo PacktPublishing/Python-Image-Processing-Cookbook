@@ -1,8 +1,10 @@
 # Python-Image-Processing-Cookbook
 
+<a href="https://www.packtpub.com/data/python-image-processing-cookbook"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789537147-original.jpeg" alt="Python-Image-Processing-Cookbook" height="256px" align="right"></a>
+
 This is the code repository for Python-Image-Processing-Cookbook, published by Packt.
 
-Over 60 recipes to help you perform complex image processing and computer vision tasks with ease
+**Over 60 recipes to help you perform complex image processing and computer vision tasks with ease**
 
 ## What is this book about?
 
@@ -90,7 +92,7 @@ Python libraries (scikit-learn, OpenCV, dlib, TensorFlow, Keras, PyTorch, DeepFa
 FaceNet) for face detection in images. You'll also learn how to implement facial keypoint
 recognition and facial/emotion/gender recognition with deep learning.
 
-If you feel this book is for you, get your copy today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789537142) today!
 
 https://www.packtpub.com/
 
@@ -99,8 +101,10 @@ All of the code is organized into folders. For example, Chapter 02.
 
 The code will look like the following:
 
+```
 viewer = viewer.ImageViewer(im)
 viewer.show()
+```
 
 Following is what you need for this book: 
 
@@ -122,10 +126,10 @@ GPU instance or Google Colab.
 
 
 #### Related products
-Hands-on Image Processing with Python - First Edition 
+Hands-on Image Processing with Python - First Edition (https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731) [[Amazon]](https://www.amazon.com/dp/1789343739)
 
 ### Get to Know the Author
 Sandipan Dey is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog sites (https://sandipanweb.wordpress.com/, https://sandipandey.wixsite.com/simplydatascience, https://www.datasciencecentral.com/profile/SandipanDey and https://sandipanumbc.tumblr.com/) and is a machine learning education enthusiast.
 
 #### Suggestions and Feedback
-Click here if you have any feedback or suggestions.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
