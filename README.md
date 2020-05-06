@@ -94,7 +94,9 @@ recognition and facial/emotion/gender recognition with deep learning.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789537142) today!
 
-https://www.packtpub.com/
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
 
 #### Instructions and Navigations
 All of the code is organized into folders. For example, Chapter 02.
@@ -126,9 +128,9 @@ GPU instance or Google Colab.
 
 
 #### Related products
-Hands-on Image Processing with Python - First Edition (https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731) [[Amazon]](https://www.amazon.com/dp/1789343739)
+Hands-on Image Processing with Python - First Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731) [[Amazon]](https://www.amazon.com/dp/1789343739)
 
-### Get to Know the Author
+#### Get to Know the Author
 Sandipan Dey is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog sites (https://sandipanweb.wordpress.com/, https://sandipandey.wixsite.com/simplydatascience, https://www.datasciencecentral.com/profile/SandipanDey and https://sandipanumbc.tumblr.com/) and is a machine learning education enthusiast.
 
 #### Suggestions and Feedback
