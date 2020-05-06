@@ -122,9 +122,7 @@ With the following software and hardware list you can run all code files present
 | Software/hardware | OS requirements |
 | -------- | ------------------------------------ |
 | Python 3.7.4. | Windows 10. |
-| -------- | ------------------------------------ |
 | Anaconda version 2019.10 (py37_0). | 	Windows 10. |
-| -------- | ------------------------------------ |
 | For the GPU, you will need an NVIDIA | 	Windows 10 / |
 | graphics card or access to an AWS	   |	Linux (Ubuntu 16). |
 | GPU instance or Google Colab. |                 |
