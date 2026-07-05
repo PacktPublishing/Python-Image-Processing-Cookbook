@@ -1,6 +1,4 @@
 
-
-
 # Python Image Processing Cookbook
 
 <a href="https://www.packtpub.com/data/python-image-processing-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789537147"><img src="https://static.packt-cdn.com/products/9781789537147/cover/smaller" alt="Python Image Processing Cookbook" height="256px" align="right"></a>
@@ -50,6 +48,21 @@ With the following software and hardware list you can run all code files present
 | 1 - 9    | Python 3.7, Anaconda version 2019.10 (py37_0), GPU (if available)                         | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789537147_ColorImages.pdf).
+
+<details open>
+  <summary><h2>Animations from the Book</summary>
+
+![](Chapter 08/images/od_yolov2.gif) 
+![](Chapter 09/images/captioning.gif) 
+![](Chapter 05/images/panorama.gif) 
+![](Chapter 09/images/colorized.gif) 
+![](Chapter 05/images/face_morph.gif) 
+![](Chapter 09/images/rbm.gif) 
+![](Chapter 09/images/GAN_anime.gif) 
+![](Chapter 08/images/ot_football.gif) 
+![](Chapter 08/images/od_maskrcnn.gif) 
+
+</details>
 
 
 ### Related products <Other books you may enjoy>
