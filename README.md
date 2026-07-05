@@ -56,8 +56,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ![](<Chapter 09/images/captioning.gif>) 
 ![](<Chapter 05/images/panorama.gif>) 
 <p float="left">
-<img src="Chapter 09/images/colorized.gif" width="300"/> 
-<img src="Chapter 05/images/face_morph.gif" width="300"/> 
+<img src="Chapter 09/images/colorized.gif" width="400"/> 
+<img src="Chapter 05/images/face_morph.gif" width="400"/> 
 </p>
 ![](<Chapter 09/images/rbm.gif>) 
 ![](<Chapter 09/images/GAN_anime.gif>) 
