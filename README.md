@@ -55,7 +55,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ![](<Chapter 08/images/od_yolov2.gif>) 
 ![](<Chapter 09/images/captioning.gif>) 
 ![](<Chapter 05/images/panorama.gif>) 
-<img src="Chapter 09/images/colorized.gif" width="425"/> <img src="Chapter 05/images/face_morph.gif" width="425"/> 
+<p float="left">
+<img src="Chapter 09/images/colorized.gif" width="300"/> 
+<img src="Chapter 05/images/face_morph.gif" width="300"/> 
+</p>
 ![](<Chapter 09/images/rbm.gif>) 
 ![](<Chapter 09/images/GAN_anime.gif>) 
 <img src="Chapter 08/images/ot_football.gif" width="900"/> 
