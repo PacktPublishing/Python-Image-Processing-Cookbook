@@ -65,11 +65,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ![](<Chapter 09/images/GAN_anime.gif>) 
 <img src="Chapter 08/images/ot_football.gif" width="800"/> 
 
-<p float="left">
-<img src="Chapter 09/images/vae_numta.gif" width="400"/> 
-<img src="Chapter 09/images/vae_fmnist.gif" width="425"/> 
-</p>
-
+![](<Chapter 09/images/vae_numta.gif>) 
+![](<Chapter 09/images/vae_fmnist.gif>)
 ![](<Chapter 09/images/rbm.gif>)
 
 <img src="Chapter 08/images/od_maskrcnn.gif" width="800"/> 
