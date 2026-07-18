@@ -74,6 +74,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ![](<Chapter 01/images/ligthart.gif>)
 ![](<Chapter 01/images/od.gif>)
 ![](<Chapter 06/images/som.gif>)
+![](<Chapter 01/images/homography.gif>)
 
 </details>
 
