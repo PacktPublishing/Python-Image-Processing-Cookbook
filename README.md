@@ -1,7 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
-
-
 
 # Python Image Processing Cookbook
 
@@ -53,6 +49,35 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789537147_ColorImages.pdf).
 
+<details open>
+  <summary><h2>Animations from the Book</summary>
+
+![](<Chapter 08/images/od_yolov2.gif>) 
+![](<Chapter 09/images/captioning.gif>) 
+![](<Chapter 05/images/panorama.gif>) 
+
+<p float="left">
+<img src="Chapter 09/images/colorized.gif" width="400"/> 
+<img src="Chapter 05/images/face_morph.gif" width="425"/> 
+</p>
+
+![](<Chapter 09/images/rbm.gif>) 
+![](<Chapter 09/images/GAN_anime.gif>) 
+<img src="Chapter 08/images/ot_football.gif" width="800"/> 
+
+![](<Chapter 09/images/vae_numta.gif>) 
+![](<Chapter 09/images/vae_fmnist.gif>)
+![](<Chapter 09/images/rbm.gif>)
+
+<img src="Chapter 08/images/od_maskrcnn.gif" width="800"/> 
+
+![](<Chapter 01/images/ligthart.gif>)
+![](<Chapter 01/images/od.gif>)
+![](<Chapter 06/images/som.gif>)
+![](<Chapter 01/images/homography.gif>)
+
+</details>
+
 
 ### Related products <Other books you may enjoy>
 * Hands-On Image Processing with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731) [[Amazon]](https://www.amazon.com/dp/B07J664F9S)
@@ -63,7 +88,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Sandipan Dey**
 is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses. He is a regular blogger (sandipanweb) and is a machine learning education enthusiast.
 
-More Image Processing Problems can be found here: https://github.com/sandipan/Solving-Image-Processing-Problems-with-Python-Part1
+More Image Processing Problems can be found here: https://github.com/sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
